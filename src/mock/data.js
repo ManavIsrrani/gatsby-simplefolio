@@ -12,7 +12,7 @@ export const heroData = {
   title: 'Hello my name is',
   name: 'Manav Isrrani',
   subtitle: 'Welcome to my website',
-  cta: '',
+  cta: 'Know More',
 };
 
 // ABOUT DATA
@@ -59,7 +59,7 @@ export const projectsData = [
 export const contactData = {
   cta: '',
   btn: '',
-  email: '',
+  email: 'misrr103@uottawa.ca',
 };
 
 // FOOTER DATA
@@ -67,23 +67,23 @@ export const footerData = {
   networks: [
     {
       id: nanoid(),
-      name: 'twitter',
-      url: '',
+      name: 'email',
+      url: 'misrr103@uottawa.ca',
     },
     {
       id: nanoid(),
-      name: 'codepen',
-      url: '',
+      name: 'instagram',
+      url: 'https://www.instagram.com/manavisrrani/',
     },
     {
       id: nanoid(),
       name: 'linkedin',
-      url: '',
+      url: 'https://www.linkedin.com/in/manav-isrrani-8a6ab2147/',
     },
     {
       id: nanoid(),
       name: 'github',
-      url: '',
+      url: 'https://github.com/ManavIsrrani',
     },
   ],
 };
